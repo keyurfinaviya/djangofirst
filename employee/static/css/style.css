@@ -1,0 +1,23 @@
+body {font:15px/1.4 Verdana,Arial;
+ 	background: ;
+ 	height:100%; 
+ 	margin:50px; 
+ 	padding:0;
+ 	 }
+ 	 
+.table{
+	  border: 1px solid black;
+      width: 100%;
+      border-collapse: collapse;
+
+}
+.con{
+	border: 3px solid black;
+}
+.e{
+	border: 2px solid black;
+	text-align: center;
+}
+
+.c
+{}
